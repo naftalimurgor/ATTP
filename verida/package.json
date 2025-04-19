@@ -1,0 +1,15 @@
+{
+  "name": "verida",
+  "version": "1.0.0",
+  "description": "This folder is intended for handling Verida user authentication and consent. You can store schemas, consent flows, and auth logic here. See: https://docs.verida.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
